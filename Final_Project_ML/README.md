@@ -1,7 +1,12 @@
 
 ![Alternate image text](https://www.hfcc.edu/sites/hfcmain/files/newsroom/photos/2022-0118-northwooduni-600x440_0.jpg)
 ## Cadiovascular Diseases Prediction
-###Group Members
+
+**MGT 665**
+
+**Prof.Itauma**
+
+### Group Members
 **Emmanuel Mensah**
 **Krishna Arisetthy**
 **Soumya Ranjan Mallick**
